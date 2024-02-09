@@ -1,3 +1,4 @@
+![logo](https://github.com/al-amin121/al-amin121/blob/main/Black%20and%20Gold%20Tech%20Website%20Developer%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm MD.Al-Amin</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
